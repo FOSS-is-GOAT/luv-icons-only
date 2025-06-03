@@ -1,4 +1,4 @@
-# Lüv
+# Lüv Icon Pack
 
 Lüv is the spiritual successor to Flattr, a flat but complex icon theme for freedesktop environments.
 
@@ -6,16 +6,12 @@ Lüv is the spiritual successor to Flattr, a flat but complex icon theme for fre
 
 Icons are licensed under the [Creative Commons Attribution-ShareAlike International 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/)
 
-## Please be aware that this is not "complete" yet with thousands of icons inside. Icons are added gradually. Check the [FAQ](https://github.com/NitruxSA/luv-icon-theme/wiki/L%C3%BCv-FAQ) for questions.
-
 
 Download
 ========
 
-Icons and wallpapers are available to download directly from this repository. Clone this repository using the following command:
+Icons are available to download directly from this repository.
 
-* In a Terminal execute the following command: 
-  * `git clone https://github.com/Nitrux/luv-icon-theme.git`
 
 Install
 ========
@@ -24,13 +20,6 @@ Install
 
 * Move the folder(s) *Luv* `/usr/share/icons` for all environments or `~/.icons` for GTK based environments or `~/.local/share/icons` for Plasma 5.
 * And finally select the theme in the Settings.
-
-### Wallpapers
-
-* For Plasma 5:
-    * Move the folders inside *Wallpapers* to `/usr/share/wallpapers` or `~/.local/share/wallpapers/`, right-click on the desktop and select "Desktop Settings", finally select the background.
-* For GTK:
-    * Copy the images to your Pictures folder; rename them if necessary, right-click the image and select "Use as wallpaper".
 
 
 Reporting missing icons
@@ -49,5 +38,8 @@ Some software uses absolute paths in their launchers, as such even when we add t
 
 # Issues
 If you find problems with the contents of this repository please create an issue.
+
+## Please be aware that this is not "complete" yet with thousands of icons inside. Icons are added gradually. 
+Check the [FAQ](https://github.com/NitruxSA/luv-icon-theme/wiki/L%C3%BCv-FAQ) for questions.
 
 ©2019 Nitrux Latinoamericana S.C.
